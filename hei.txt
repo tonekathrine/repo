@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 heisann, Tone!
 dette er en tekst.
 ÆH.
+=======
+Heisann!!
+>>>>>>> 3bdf9a1420a31ac6c93d66ced156d3b4f57a0571
